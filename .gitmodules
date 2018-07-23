@@ -1,0 +1,3 @@
+[submodule "lending_club/facets"]
+	path = lending_club/facets
+	url = https://github.com/whitedani/facets.git

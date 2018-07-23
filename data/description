@@ -1,0 +1,80 @@
+description
+The number of accounts on which the borrower is now delinquent.
+The state provided by the borrower in the loan application
+Balance to credit limit on all trades
+The self-reported annual income provided by the borrower during registration.
+The combined self-reported annual income provided by the co-borrowers during registration
+Indicates whether the loan is an individual application or a joint application with two co-borrowers
+post charge off collection fee
+Number of collections in 12 months excluding medical collections
+The number of 30+ days past-due incidences of delinquency in the borrower's credit file for the past 2 years
+Loan description provided by the borrower
+A ratio calculated using the borrower’s total monthly debt payments on the total debt obligations, excluding mortgage and the requested LC loan, divided by the borrower’s self-reported monthly income.
+A ratio calculated using the co-borrowers' total monthly payments on the total debt obligations, excluding mortgages and the requested LC loan, divided by the co-borrowers' combined self-reported monthly income
+The month the borrower's earliest reported credit line was opened
+Employment length in years. Possible values are between 0 and 10 where 0 means less than one year and 10 means ten or more years. 
+The job title supplied by the Borrower when applying for the loan.*
+The upper boundary range the borrower’s FICO at loan origination belongs to.
+The lower boundary range the borrower’s FICO at loan origination belongs to.
+The total amount committed to that loan at that point in time.
+The total amount committed by investors for that loan at that point in time.
+LC assigned loan grade
+The home ownership status provided by the borrower during registration. Our values are: RENT, OWN, MORTGAGE, OTHER.
+A unique LC assigned ID for the loan listing.
+Ratio of total current balance to high credit/credit limit on all install acct
+The initial listing status of the loan. Possible values are – W, F
+Number of personal finance inquiries
+Number of credit inquiries in past 12 months
+The number of inquiries in past 6 months (excluding auto and mortgage inquiries)
+The monthly payment owed by the borrower if the loan originates.
+Interest Rate on the loan
+Indicates if income was verified by LC, not verified, or if the income source was verified
+The month which the loan was funded
+The most recent month LC pulled credit for this loan
+The upper boundary range the borrower’s last FICO pulled belongs to.
+The lower boundary range the borrower’s last FICO pulled belongs to.
+Last total payment amount received
+Last month payment was received
+The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value.
+Current status of the loan
+Maximum current balance owed on all revolving accounts
+A unique LC assigned Id for the borrower member.
+The number of months since the borrower's last delinquency.
+Months since most recent 90-day or worse rating
+The number of months since the last public record.
+Months since most recent installment accounts opened
+Next scheduled payment date
+The number of open credit lines in the borrower's credit file.
+Number of open trades in last 6 months
+Number of installment accounts opened in past 12 months
+Number of installment accounts opened in past 24 months
+Number of currently active installment trades
+Number of revolving trades opened in past 12 months
+Number of revolving trades opened in past 24 months
+Remaining outstanding principal for total amount funded
+Remaining outstanding principal for portion of total amount funded by investors
+"publicly available policy_code=1
+new products not publicly available policy_code=2"
+Number of derogatory public records
+A category provided by the borrower for the loan request. 
+Indicates if a payment plan has been put in place for the loan
+post charge off gross recovery
+Total credit revolving balance
+Revolving line utilization rate, or the amount of credit the borrower is using relative to all available revolving credit.
+LC assigned loan subgrade
+The number of payments on the loan. Values are in months and can be either 36 or 60.
+The loan title provided by the borrower
+Total collection amounts ever owed
+Total current balance of all accounts
+The total number of credit lines currently in the borrower's credit file
+Total current balance of all installment accounts
+Number of finance trades
+Payments received to date for total amount funded
+Payments received to date for portion of total amount funded by investors
+Interest received to date
+Late fees received to date
+Principal received to date
+Total revolving high credit/credit limit
+URL for the LC page with listing data.
+Indicates if the co-borrowers' joint income was verified by LC, not verified, or if the income source was verified
+The first 3 numbers of the zip code provided by the borrower in the loan application.
